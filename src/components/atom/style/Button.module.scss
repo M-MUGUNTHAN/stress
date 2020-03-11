@@ -1,0 +1,5 @@
+@import "../../../mysass.scss";
+
+.Button{
+    @include Button;
+}

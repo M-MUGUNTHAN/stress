@@ -1,0 +1,15 @@
+.Container{
+    height:100vh;
+    height:-webkit-fill-available;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding:16px;
+    box-sizing: border-box;
+}
+.TextInput{
+    border-radius: 5px;
+    margin-bottom: 22px;
+    padding: 0px 30px;
+}
